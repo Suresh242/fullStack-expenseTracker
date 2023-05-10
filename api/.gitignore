@@ -1,0 +1,8 @@
+#igni=
+/node_modules
+
+
+/dbConnection
+
+/.env
+
